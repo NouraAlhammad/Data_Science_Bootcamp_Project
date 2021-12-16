@@ -1,6 +1,9 @@
 # Avocado Price Prediction
 Noura Alhammad
 
+
+
+
 # Abstract
 The purpose of this project is to build a model to help avocado lovers to predict the future price of avocado-based on the product number and assign if the avocado is conventional or organic. 
 
